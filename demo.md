@@ -7,6 +7,20 @@ MarkDown + Reveal.js
 2018-07-02 Infosons - Ezio Sperduto
 ---
 
+# Esempio 
+
+```
+# TITOLO: Slide 1
+testo
+---
+# TITOLO: Slide 2
+- rosso
+- blu
+- verde
+---
+```
+---
+
 <!-- .slide: data-background="#4D7E65" -->
 <!-- .slide: data-color="#333333" -->
 
