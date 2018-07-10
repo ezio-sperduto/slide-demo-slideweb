@@ -308,20 +308,20 @@ Per la singola slide aggiungere:
 ---
 
 <!-- .slide: data-background="#f0f0f0" -->
-<!-- .slide: data-color="#333300" -->
+<!-- .slide: data-color="#3b6cba" -->
 
 ## Slide verticali/annidate
 
   <section>
-    ## Prima annidata  
+    <b><u>Prima annidata</u></b>  
     ![](java.png)
   </section>
   <section>
-    ## Seconda annidata  
+    <b><u>Seconda annidata</u></b>  
     ![](python.png)
   </section>
   <section>
-    ## Terza annidata  
+    <b><u>Terza annidata</u></b>  
     ![](javascript.png)
   </section>
 
