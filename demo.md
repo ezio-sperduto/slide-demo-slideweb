@@ -104,11 +104,25 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ## Regole extra
 
-* per accapo, lasciare due spazi
-* per aprire un nuovo paragarfo, lasciare una rigua vuota
-* il carattere `\` permette di fare *escape* dei caratteri speciali
-* premere ![kb](key-b.png) oppure ![kd](key-dot.png) per sospendere la presentazione
+per andare **accapo** (*line-break*)  
+lasciare due spazi `␣ ␣` a fine riga
 
+---
+
+## Regole extra
+
+per aprire un **_nuovo paragrafo_**,  
+lasciare una rigua vuota
+---
+
+## Regole extra
+
+il carattere `\` permette di fare *escape* dei caratteri speciali
+---
+
+## Regole extra
+
+premere ![kb](key-b.png) oppure ![kd](key-dot.png) per sospendere la presentazione
 ---
 
 ## Blocco di codice
