@@ -357,7 +357,8 @@ Per la singola slide aggiungere:
             <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;">Moon</a> -
             <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
           </p>
-</section>---
+</section>
+---
 
 
 ## Formule con *KaTeX*
