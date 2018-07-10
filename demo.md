@@ -112,7 +112,7 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 ## Regole extra
 
 per andare **accapo** (*line-break*)  
-lasciare due spazi `␣ ␣` a fine riga
+lasciare due spazi `␣ ␣`
 
 ---
 
