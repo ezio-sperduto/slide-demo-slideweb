@@ -377,14 +377,18 @@ $$
 6. **Salva come PDF.**
 ---
 
-## Hosting
+## Hosting / svil->prod
 
 La presentazione può essere ospitata su un qualunque server:
-- su rawgit: pubblico accessibile a tutti
-- su pc locale: velocità in sviluppo
+- su **RawGit**: pubblico accessibile a tutti
+- su locale: velocità in sviluppo
+---
+## Hosting: RawGit
+ciao
+![rawgit](rawgit.png)
 ---
 
-# Fine
+# Fine ciao
 grazie per l'attenzione
 ---
 

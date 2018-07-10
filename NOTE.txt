@@ -1,3 +1,7 @@
 Lanciare NGINX dalla directory corrente:
 
-docker run --name fastWS -p 9999:80 -v $PWD:/usr/share/nginx/html:ro --rm nginx
+docker run --name slide -p 7777:80 -v $PWD:/usr/share/nginx/html:ro --rm nginx
+
+per accedere:
+
+IP-DOCKER:7777/demo.html
