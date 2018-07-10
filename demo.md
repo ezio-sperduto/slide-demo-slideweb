@@ -10,7 +10,7 @@ MarkDown + Reveal.js
 # Esempio 
 
 ```
-&#23; TITOLO: Slide 1
+# TITOLO: Slide 1
 testo
 &#2D;&#2D;&#2D;
 &#23; TITOLO: Slide 2
