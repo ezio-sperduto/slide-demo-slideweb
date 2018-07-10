@@ -383,9 +383,22 @@ La presentazione può essere ospitata su un qualunque server:
 - su **RawGit**: pubblico accessibile a tutti
 - su locale: velocità in sviluppo
 ---
+
 ## Hosting: RawGit
 Renderizza pagine su *GitHub*
 ![rawgit](rawgit.png)
+---
+
+## Hosting: locale
+Usando *Docker*, si può  
+lanciare al volo un webserver:
+```
+docker run --name slide -p 7777:80 -v $PWD:/usr/share/nginx/html:ro --rm nginx
+```
+e raggiungerlo:
+```
+IP-DOCKER:7777/demo.html
+``
 ---
 
 # Fine
