@@ -338,7 +338,6 @@ Per la singola slide aggiungere:
     <b><u>Terza annidata</u></b>  
     ![](javascript.png)
   </section>
-
 ---
 
 ## Temi
