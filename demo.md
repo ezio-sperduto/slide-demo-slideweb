@@ -348,7 +348,7 @@ Per la singola slide aggiungere:
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;">League</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;">Sky</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;">Beige</a> -
-  <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;">Simple</a> <br>
+  <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;">Simple</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;">Serif</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;">Blood</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;">Night</a> -
@@ -356,7 +356,6 @@ Per la singola slide aggiungere:
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
 </section>
 ---
-
 
 ## Formule con *KaTeX*
 
@@ -457,11 +456,14 @@ grazie per l'attenzione
 ---
 
 # Domande?
+
+<!--
 ---
 
-## Feedback anonimo
+## Feedback (anonimi)
 - link
 - qr
 - bozza feedback
+-->
 
 
