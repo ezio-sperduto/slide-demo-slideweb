@@ -9,16 +9,7 @@ MarkDown + Reveal.js
 
 # Esempio 
 
-```
-# TITOLO: Slide 1
-testo
----
-&#23; TITOLO: Slide 2
-- rosso
-- blu
-- verde
-&#2D;&#2D;&#2D;
-```
+![](esempio.png)
 ---
 
 <!-- .slide: data-background="#4D7E65" -->
