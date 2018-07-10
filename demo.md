@@ -10,14 +10,14 @@ MarkDown + Reveal.js
 # Esempio 
 
 ```
-# TITOLO: Slide 1
+&#23; TITOLO: Slide 1
 testo
----
-# TITOLO: Slide 2
+&#2D;&#2D;&#2D;
+&#23; TITOLO: Slide 2
 - rosso
 - blu
 - verde
----
+&#2D;&#2D;&#2D;
 ```
 ---
 
@@ -471,13 +471,5 @@ grazie per l'attenzione
 
 # Domande?
 
-<!--
----
-
-## Feedback (anonimi)
-- link
-- qr
-- bozza feedback
--->
 
 
