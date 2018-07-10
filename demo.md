@@ -12,7 +12,7 @@ MarkDown + Reveal.js
 ```
 # TITOLO: Slide 1
 testo
-&#2D;&#2D;&#2D;
+---
 &#23; TITOLO: Slide 2
 - rosso
 - blu
