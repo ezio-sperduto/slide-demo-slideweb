@@ -62,7 +62,6 @@ Si scrive così:
 per ottenere:
 > C'era una volta  
 > in America...
-
 ---
 
 ## Liste puntate
@@ -308,6 +307,16 @@ Per la singola slide aggiungere:
 ```
 ---
 
+## Slide verticali/annidate
+
+  <section>
+    ## ciao
+  </section>
+  <section>
+    ## bau
+  </section>
+
+---
 ## Formule con *KaTeX*
 
 KaTeX è una versione web di LaTeX. 
@@ -393,12 +402,13 @@ Renderizza pagine su *GitHub*
 Usando *Docker*, si può  
 lanciare al volo un webserver:
 ```
-docker run --name slide -p 7777:80 -v $PWD:/usr/share/nginx/html:ro --rm nginx
+docker run --name slide -p 7777:80 
+   -v $PWD:/usr/share/nginx/html:ro --rm nginx
 ```
 e raggiungerlo:
 ```
 IP-DOCKER:7777/demo.html
-``
+```
 ---
 
 # Fine
