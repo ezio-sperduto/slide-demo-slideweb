@@ -4,5 +4,6 @@
 }
 
 .reveal img.vcenter {
-    vertical-align: baseline;
+    vertical-align: sub;
+    margin-bottom: 0px;
 }
