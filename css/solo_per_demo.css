@@ -2,3 +2,7 @@
 .reveal .piccolo code{ 
 	color: #00ff00; 
 }
+
+.reveal img.vcenter {
+    vertical-align: baseline;
+}
