@@ -342,6 +342,7 @@ Per la singola slide aggiungere:
 ---
 
 ## Temi
+<section>
           <p>
             Esistono alcuni temi, con il CSS si possono presonalizzare a piacere<br>
             <!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
