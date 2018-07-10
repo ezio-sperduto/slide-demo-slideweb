@@ -343,7 +343,6 @@ Per la singola slide aggiungere:
 
 ## Temi
 <section>
-<p>
   Esistono alcuni temi, con il CSS si possono presonalizzare a piacere<br>
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;">Black (default)</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;">White</a> -
@@ -356,7 +355,6 @@ Per la singola slide aggiungere:
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;">Night</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;">Moon</a> -
   <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
-</p>
 </section>
 ---
 
