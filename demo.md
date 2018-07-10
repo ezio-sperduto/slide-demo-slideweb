@@ -384,11 +384,11 @@ La presentazione può essere ospitata su un qualunque server:
 - su locale: velocità in sviluppo
 ---
 ## Hosting: RawGit
-ciao
+Renderizza pagine su *GitHub*
 ![rawgit](rawgit.png)
 ---
 
-# Fine ciao
+# Fine
 grazie per l'attenzione
 ---
 
