@@ -436,11 +436,11 @@ $$
 ## Hosting / svil->prod
 
 La presentazione può essere ospitata su un qualunque server:
-- su **RawGit**: pubblico accessibile a tutti
+- su **Raw GitHack**: pubblico accessibile a tutti
 - su locale: velocità in sviluppo
 ---
 
-## Hosting: RawGit
+## Hosting: raw.githack.com
 Renderizza pagine su *GitHub*
 ![rawgit](rawgit.png)
 ---
@@ -456,6 +456,9 @@ e raggiungerlo:
 ```
 IP-DOCKER:7777/demo.html
 ```
+<span class="piccolissimo">
+  *Disabilitare la cache di NGINX.
+</span>
 ---
 
 # Fine

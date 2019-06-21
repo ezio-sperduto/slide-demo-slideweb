@@ -1,7 +1,14 @@
 Lanciare NGINX dalla directory corrente:
 
-docker run --name slide -p 7777:80 -v $PWD:/usr/share/nginx/html:ro --rm nginx
+docker run --name slide -p 7777:80 -v $PWD:/usr/share/nginx/html:ro --rm ezio/nginx-nocache
 
 per accedere:
 
 IP-DOCKER:7777/demo.html
+
+*attenzione: nginx ha un sistema di cache automatico che non aggiorna js. E' necessario disattivarlo.
+Per docker ho creato un nuova immagine locale modificata, con il file nginx.conf modificato, come da articolo:
+https://ejf.io/dev_blog/docker_nginx_caching/
+
+il nome della nuova immagina locale: ezio/nginx-nocache
+
