@@ -3,8 +3,8 @@
 <!-- .slide: data-color="#333333" -->
 
 ## Demo Slide web
-MarkDown + Reveal.js  
-2018-07-02 Infosons - Ezio Sperduto
+Reveal.**JS** + *MarkDown*  
+Ezio Sperduto - 2018-07-02
 ---
 
 # Esempio  
@@ -18,11 +18,12 @@ file.md
 <!-- .slide: data-color="#333333" -->
 
 ## Inizializzare le slide
-1. creare repo o cartella su **GitHub**
-2. caricare file testo vuoto **slide.md**
-3. copiare file wrapper **index.html** che usa *Reveal.js* e punta a *slide.md*
-4. mettere link-raw di *index.html* di GitHub su [https://raw.githack.com/](https://raw.githack.com/) per generare la presentazione
-5. **lavorare su *slide.md* per ottenere la presentazione!!!**
+1. new [repo/cartella]() su **GitHub**
+2. new [slide.md]()
+3. copy wrapper [index.html]()
+(include *Reveal.js* e *slide.md*)
+4. link su [raw.githack.com](https://raw.githack.com/): pubblica le slide
+5. MODIFICARE SOLO [SLIDE.MD]()!!!
 ---
 
 ## Formattazione
