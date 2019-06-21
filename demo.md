@@ -21,7 +21,7 @@ file.md
 1. creare repo o cartella su **GitHub**
 2. caricare file testo vuoto **slide.md**
 3. copiare file wrapper **index.html** che usa *Reveal.js* e punta a *slide.md*
-4. mettere link-raw di *index.html* di GitHub su [https://rawgit.com/](https://rawgit.com/) per generare la presentazione
+4. mettere link-raw di *index.html* di GitHub su [https://rawgit.com/](https://raw.githack.com/) per generare la presentazione
 5. **lavorare su *slide.md* per ottenere la presentazione!!!**
 ---
 
