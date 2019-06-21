@@ -11,7 +11,7 @@ MarkDown + Reveal.js
 
 file.md 
 
-![](esempio.png)
+![](images/esempio.png)
 ---
 
 <!-- .slide: data-background="#4D7E65" -->
@@ -106,7 +106,7 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 ```
 ![Nome_immagine](/percorso/relativo/immagine.png)
 ```
-![Nome_immagine](git.jpg)  
+![Nome_immagine](images/git.jpg)  
 ---
 
 ## Regole extra
@@ -129,7 +129,7 @@ il carattere `\` permette di fare *escape* dei caratteri speciali
 
 ## Regole extra
 
-premere <img class="vcenter" src="key-b.png"/> oppure <img class="vcenter" src="key-dot.png"/> per sospendere la presentazione
+premere <img class="vcenter" src="images/key-b.png"/> oppure <img class="vcenter" src="images/key-dot.png"/> per sospendere la presentazione
 ---
 
 ## Blocco di codice
@@ -308,7 +308,7 @@ Per la singola slide aggiungere:
 ```
 ---
 
-<!-- .slide: data-background="sea.jpg" -->
+<!-- .slide: data-background="images/sea.jpg" -->
 ## Sfondo e colori
 
 - immagine sfondo: 
@@ -317,7 +317,7 @@ Per la singola slide aggiungere:
 ```
 ---
 
-<!-- .slide: data-background="matrix.gif" -->
+<!-- .slide: data-background="images/matrix.gif" -->
 <!-- .reveal: data-color="#000000" -->
 
 ## Sfondo e colori
@@ -335,15 +335,15 @@ Per la singola slide aggiungere:
 
   <section>
     <b><u>Prima annidata</u></b>  
-    ![](java.png)
+    ![](images/java.png)
   </section>
   <section>
     <b><u>Seconda annidata</u></b>  
-    ![](python.png)
+    ![](images/python.png)
   </section>
   <section>
     <b><u>Terza annidata</u></b>  
-    ![](javascript.png)
+    ![](images/javascript.png)
   </section>
 ---
 
@@ -442,7 +442,7 @@ La presentazione può essere ospitata su un qualunque server:
 
 ## Hosting: raw.githack.com
 Renderizza pagine su *GitHub*
-![rawgit](rawgit.png)
+![rawgit](images/rawgit.png)
 ---
 
 ## Hosting: locale
