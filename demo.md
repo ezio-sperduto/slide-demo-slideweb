@@ -20,7 +20,7 @@ file.md
 ## Inizializzare le slide
 1. new [repo/cartella]() su **GitHub**
 2. new [slide.md]()
-3. copy wrapper [index.html]()
+3. copy wrapper [index.html]()  
 (include *Reveal.js* e *slide.md*)
 4. link su [raw.githack.com](https://raw.githack.com/): pubblica le slide
 5. MODIFICARE SOLO [SLIDE.MD]()!!!
