@@ -16,7 +16,7 @@ file.md
 
 # Pre-requisiti  
 
-* Firfox (*espressamente*)
+* Firefox (*espressamente*)
 * account GitHub
 * client terminale GIT
 ---
