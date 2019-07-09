@@ -14,6 +14,13 @@ file.md
 ![](images/esempio.png)
 ---
 
+# Pre-requisiti  
+
+* Firfox (*espressamente*)
+* account GitHub
+* client terminale GIT
+---
+
 <!-- .slide: data-background="#4D7E65" -->
 <!-- .slide: data-color="#333333" -->
 
